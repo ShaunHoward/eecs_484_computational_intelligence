@@ -1,6 +1,6 @@
 # README #
 
-EECS 484 Computational Intelligence I Projects for Case Western Reserve University Fall 2015. 
+EECS 484 Computational Intelligence I Projects for Case Western Reserve University Fall 2015. All project code is in Matlab.
 
 * PS1: Clustering Financial Data
 * PS2: Clustering Image Data
