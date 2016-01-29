@@ -11,4 +11,4 @@ EECS 484 Computational Intelligence I Projects for Case Western Reserve Universi
 * PS7: FFWD NN for Radial Basis Functions
 * PS8: Content Addressable Memory via Hopfield Network
 * PS9: Traveling Salesman Problem via Hopfield Network
-* PS10: Backpropagation Through Time to classify musical beats
+* PS10: Backpropagation Through Time (RNN) to classify musical beats
